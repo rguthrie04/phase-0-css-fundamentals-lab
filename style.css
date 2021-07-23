@@ -1,5 +1,39 @@
+h1{
+  text-align: center;
+}
+
+#featured-property figure{
+  text-align: center;
+  font-size: smaller;
+}
+
+#featured-property p {
+  font-size: medium;
+  width: 800px;
+  margin: auto;
+  line-height: 1.5;
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+nav{
+  text-align: center;
+  }
+
+nav a{
+  background-color: rgb(185, 185, 185);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+
+}#details div {
+  text-align: center;
+  float: left;
+  margin: auto;
+  background-color: red;
+  width: 25%;
 }
